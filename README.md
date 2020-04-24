@@ -1,4 +1,4 @@
-Example code to create an Azure Terraform using a Remote Backend (Azure Containers) and looking up secrets from Vault..
+Example code to create an Azure environment via Terraform using a Remote Backend (Azure Storage Containers) and looking up secrets from Vault..
 
 To run, first download terraform from https://www.terraform.io/downloads.html. This example will also require a funcional instance of Vault with working secrets.
 
